@@ -4,7 +4,11 @@ This processing file pulls data from the binary classification file "banks.csv".
 
 ![My image](https://raw.githubusercontent.com/jbrdge/DataInProcessing/master/screen-0500.tif)
 
+The "Butterfly Curve" is a straighforward plotting method for illustrating the signal. It plots the points regularly along a path using the torus equation along a specific formula for a curve.
+
 
 The "Velocity and Acceleration" folder consists of a processing file which randomly drops points into the window and through "gravitaion" the points are attracted to a point that is moving according to a sine function around the window. The white is the path of the rotational object.
 
 ![My image](https://github.com/jbrdge/DataInProcessing/blob/master/Velocity_And_Acceleration/Screen%20Shot%202018-12-28%20at%204.43.17%20PM.png)
+
+
