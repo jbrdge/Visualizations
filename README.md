@@ -10,8 +10,8 @@ The "Butterfly Curve" is a straighforward plotting method for illustrating the s
 The "Velocity and Acceleration" folder consists of a processing file which randomly drops points into the window and through "gravitaion" the points are attracted to a point that is moving according to a sine function around the window. The white is the path of the rotational object.
 <br><br><br><br>
 <img align="right" width="120" height="120" src="https://raw.githubusercontent.com/jbrdge/DataInProcessing/master/Closed_Polygon_Spiral/Screen%20Shot%202018-12-28%20at%205.32.48%20PM.png">
-The closed form equation for a n-gon is used to create the shape. There is resizing of the plot to create an illusion of a spiral. 
+The "Closed Polygon Spiral" is a closed form equation for a n-gon used to create the shape, with resizing of the plot to create an illusion of a spiral. 
 <br><br><br><br>
 <img align="right" width="120" height="120" src="https://raw.githubusercontent.com/jbrdge/DataInProcessing/master/Varying_Rates_Torus/Screen%20Shot%202018-12-28%20at%209.03.25%20PM.png">
-The varying rates torus is a non-object form illustrating combined sinusoidals with the function of being able to control the rates. It uses a for loop to call the function's points.
+The "Varying Rates Torus" is a non-object form illustrating combined sinusoidals with the function of being able to control the rates. It uses a for loop to call the function's points.
 
