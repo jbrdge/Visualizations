@@ -12,6 +12,6 @@ The "Velocity and Acceleration" folder consists of a processing file which rando
 <img align="right" width="120" height="120" src="https://raw.githubusercontent.com/jbrdge/DataInProcessing/master/Closed_Polygon_Spiral/Screen%20Shot%202018-12-28%20at%205.32.48%20PM.png">
 The "Closed Polygon Spiral" is a closed form equation for a n-gon used to create the shape, with resizing of the plot to create an illusion of a spiral. 
 <br><br><br><br>
-<img align="right" width="120" height="120" src="https://raw.githubusercontent.com/jbrdge/DataInProcessing/master/Varying_Rates_Torus/Screen%20Shot%202018-12-28%20at%209.03.25%20PM.png">
+<img align="right" width="120" height="120" src="https://raw.githubusercontent.com/jbrdge/DataInProcessing/master/Varying_Rates_Parametric/Screen%20Shot%202018-12-28%20at%209.52.04%20PM.png">
 The "Varying Rates Parametric" is a non-object form illustrating combined sinusoidals with the function of being able to control the rates. It uses a for loop to call the function's points.
 
