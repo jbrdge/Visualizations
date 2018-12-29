@@ -1,9 +1,13 @@
+<html>
+<head>
+
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
+</head>
 
 # DataInProcessing
 
@@ -22,3 +26,4 @@ The "Velocity and Acceleration" folder consists of a processing file which rando
 The closed form equation for a n-gon is used to create the shape. There is resizing of the plot to create an illusion of a spiral. 
 
 <img src="https://raw.githubusercontent.com/jbrdge/DataInProcessing/master/Closed_Polygon_Spiral/Screen%20Shot%202018-12-28%20at%205.32.48%20PM.png" width="300" class="center">
+</html>
