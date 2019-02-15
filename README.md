@@ -1,7 +1,7 @@
 
 # DataInProcessing
 
-This repositoroy consists of highlights of useful data/signal visualizations I've built in Processing.
+This repository consists of highlights of useful data/signal visualizations I've built in Processing.
 
 
 <img align="right" width="120" height="120" src="https://raw.githubusercontent.com/jbrdge/DataInProcessing/master/screen-0500.tif">
