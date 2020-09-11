@@ -66,7 +66,7 @@ double y(float t){
 
 void keyPressed() {
   if (key == 'q') {
-   saveFrame("line-######.png");
+   saveFrame("ButterflyCurve-######.png");
    exit();
   }
 }
