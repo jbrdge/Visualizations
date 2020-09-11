@@ -1,4 +1,4 @@
-# DataInProcessing
+# VisualizationsInProcessing
 
 This repository consists of highlights of useful data/signal visualizations I've built in Processing.
 
