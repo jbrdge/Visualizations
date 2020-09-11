@@ -47,20 +47,13 @@ void draw(){
       popMatrix();
     }
   }
-  /*
-  for(int i=0; i<400; i++){
-    stroke(lerp_array[i]);
-    strokeWeight(4);
-    line((20+i*.6)*cos((i+t)*PI/45),(20+i*.6)*sin((i+t)*PI/45), (20+i*.7)*cos((i+t)*PI/45), (20+i*.7)*sin((i+t)*PI/45));
-  }
-  */
   counter+=5;
   t+=.05;
-  println(frameCount);
 }
 
 void keyPressed() {
   if (key == 'q') {
+   saveFrame("polygonIterations-######.png");
    exit();
   }
 }
