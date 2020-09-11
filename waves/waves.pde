@@ -21,6 +21,7 @@ void draw(){
 
 void keyPressed() {
   if (key == 'q') {
+   saveFrame("waves-######.png");
    exit();
   }
 }
