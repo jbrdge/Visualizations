@@ -1,4 +1,13 @@
 
+---
+title: Data in Processing
+date: "2020-09-11"
+description: Repo containing my favorite processing files I have created.
+creator: Jacob Breckenridge
+---
+<link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
+
+
 # DataInProcessing
 
 This repository consists of highlights of useful data/signal visualizations I've built in Processing.
