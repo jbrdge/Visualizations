@@ -31,6 +31,7 @@ void draw(){
 
 void keyPressed() {
   if (key == 'q') {
+    saveFrame("graphNeighbors-######.png");
    exit();
   }
 }
