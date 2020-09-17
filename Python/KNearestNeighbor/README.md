@@ -1,23 +1,9 @@
 # view all the images here:
-
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-1.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-10.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-12.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-13.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-14.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-16.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-17.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-3.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-6.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-1.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-7.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-8.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-9.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_2-1.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_2.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/KNearestNeighbor.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/MJ7no2tg.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/foo14.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/foo15.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/foo19.png">|
-|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/terrain07-01.png">|
+|:---:|:---:|:---:|
+|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-1.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-10.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-12.png">|
+|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-13.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-14.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-16.png">|
+|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-17.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-3.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-6.png">|
+|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-1.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-7.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-8.png">|
+|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_1-9.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_2-1.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/Figure_2.png">|
+|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/KNearestNeighbor.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/MJ7no2tg.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/foo14.png">|
+|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/foo15.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/foo19.png">|<img align="center" width="240" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/terrain07-01.png">|
