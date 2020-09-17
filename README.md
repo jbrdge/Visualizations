@@ -2,7 +2,13 @@
 
 This repository consists of highlights of useful data/signal visualizations I've built in Processing.
 
-| Title |Language| Description | Image |
+## Data
+| Title |Language| Description | Image(s) |
+|:-----:|:------:|:------------|:-----:|
+|[K-Nearest Neighbor](https://github.com/jbrdge/Visualizations/tree/master/Python/KNearestNeighbor/KNearestNeighbor.py)|Python|Interesting Implementations of K-Nearest neighbor. Variations occur based on plottion of labeled points|<img align="center" width="120" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/KNearestNeighbor.png">|
+
+##Animations
+| Title |Language| Description | Image(s) |
 |:-----:|:------:|:------------|:-----:|
 |[Butterfly Curve](https://github.com/jbrdge/Visualizations/tree/master/Processing/butterflycurve/butterflycurve.pde)|Processing|A basic sinusoidal function, rotating in 3D about the z-axis|<img align="center" width="120" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Processing/butterflycurve/ButterflyCurve-000005.png">|
 |[Waves](https://github.com/jbrdge/Visualizations/tree/master/Processing/waves/waves.pde)|Processing|2D Sinusoidal, tilted in space|<img align="center" width="120" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Processing/waves/waves-000035.png">|
