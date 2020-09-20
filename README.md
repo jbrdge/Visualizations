@@ -5,7 +5,7 @@ This repository consists of highlights of useful data/signal visualizations I've
 ## Data
 | Title |Language| Description | Image(s) |
 |:-----:|:------:|:------------|:-----:|
-|[K-Nearest Neighbor](https://github.com/jbrdge/Visualizations/tree/master/Python/KNearestNeighbor/KNearestNeighbor.py)|Python|Interesting Implementations of K-Nearest neighbor. Variations occur based on plottion of labeled points|<img align="center" width="120" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/KNearestNeighbor.png">|
+|[K-Nearest Neighbor](https://github.com/jbrdge/Visualizations/tree/master/Python/KNearestNeighbor/KNearestNeighbor.py)|Python|Interesting Implementations of K-Nearest neighbor. Variations occur based on plottion of labeled points\n[View all Images in KNN directory](https://github.com/jbrdge/Visualizations/tree/master/Python/KNearestNeighbor)|<img align="center" width="120" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/KNearestNeighbor.png"><img align="center" width="120" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/foo14.png">|
 
 ##Animations
 | Title |Language| Description | Image(s) |
