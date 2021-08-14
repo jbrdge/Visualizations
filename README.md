@@ -7,7 +7,7 @@ This repository consists of highlights of useful data/signal visualizations I've
 |:-----:|:------:|:------------|:-----:|
 |[K-Nearest Neighbor](https://github.com/jbrdge/Visualizations/tree/master/Python/KNearestNeighbor/KNearestNeighbor.py)|Python|Interesting Implementations of K-Nearest neighbor. Variations occur based on plottion of labeled points<br>[View all Images in KNN directory](https://github.com/jbrdge/Visualizations/tree/master/Python/KNearestNeighbor)|<img align="center" width="120" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/KNearestNeighbor.png"><img align="center" width="120" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Python/KNearestNeighbor/foo14.png">|
 
-##Animations
+## Animations
 | Title |Language| Description | Image(s) |
 |:-----:|:------:|:------------|:-----:|
 |[Butterfly Curve](https://github.com/jbrdge/Visualizations/tree/master/Processing/butterflycurve/butterflycurve.pde)|Processing|A basic sinusoidal function, rotating in 3D about the z-axis|<img align="center" width="120" src="https://raw.githubusercontent.com/jbrdge/Visualizations/master/Processing/butterflycurve/ButterflyCurve-000005.png">|
